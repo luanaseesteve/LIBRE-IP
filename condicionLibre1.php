@@ -27,6 +27,7 @@ return $bono;
 *string $estCiv
 *float $sumaBonos, $bonos
 */
+
 $porcentajeCasa=0;
 $sumaBonos=0;
 $sumaCasados=0;
