@@ -1,8 +1,7 @@
 <?php
 /*@return array
 */ function cargarMascotas(){
-//$misMascotas es un arreglo multidimensional indexado con arreglos
-asociativos.
+//$misMascotas es un arreglo multidimensional indexado con arreglos asociativos.
 $arregloMascotas=[];
 $arregloMascotas[0]=["nombre" => "Gonzo", "edad" => "9", "tipo" =>
 "perro",];
